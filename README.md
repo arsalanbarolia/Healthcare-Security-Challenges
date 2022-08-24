@@ -2,6 +2,8 @@
 
 # Security Challenges for Healthcare Applications Regarding Body Area Network: A Comprehensive Survey
 
+> The full research report can be read [here.](files/Security%20Challenges%20for%20Healthcare%20Applications%20Regarding%20Body%20Area%20Network%20-%20Arsalan%20Barolia.pdf)
+
 ### Table of Contents
 
 - [Abstract](#abstract)
@@ -19,7 +21,6 @@ Body area network (BAN) are commonly used in healthcare environments such as hos
 
 <b><em>Keywords — Body area network (BAN), security limitations, healthcare monitoring, key distribution, public key distribution, symmetric key distribution.</em></b>
 
-> The full research report can be read [here.](files/Security%20Challenges%20for%20Healthcare%20Applications%20Regarding%20Body%20Area%20Network%20-%20Arsalan%20Barolia.pdf)
 
 [Back To The Top](#project)
 
@@ -29,9 +30,9 @@ Body area network (BAN) are commonly used in healthcare environments such as hos
 
 <h4> Arsalan Barolia</h4>
 
-- LinkedIn - [https://www.linkedin.com/in/arsalanbarolia/](https://www.linkedin.com/in/arsalanbarolia/)
-- GitHub - [https://github.com/arsalanbarolia](https://github.com/arsalanbarolia)
-- Website - [Enter domain here](enter domain here)
+- LinkedIn - [linkedin.com/in/arsalanbarolia](https://www.linkedin.com/in/arsalanbarolia)
+- GitHub - [github.com/arsalanbarolia](https://github.com/arsalanbarolia)
+- Website - [arsalanbarolia.com](https://arsalanbarolia.com)
 
 <p></p>
 
